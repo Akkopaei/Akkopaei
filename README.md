@@ -1,5 +1,6 @@
 # 💫 About Me:
-**Hi 👋, I am a self taught Full Stack Developer from Delhi, India.** <br>I'm currently learning React Native.
+### Hi 👋, I am a self taught Full Stack Developer from Delhi, India. 
+<br>I'm currently learning React Native.
 
 
 # 💻 Tech Stack:
